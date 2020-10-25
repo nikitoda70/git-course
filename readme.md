@@ -1,3 +1,3 @@
-# Git and Github Corse
+# Git and Github Course
 
 Crash course for Git
